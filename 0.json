@@ -1,0 +1,32 @@
+{
+    "name": "SH Raffle Winner",
+    "symbol": "SHR",
+    "description": "Smoke Heads Matchbox Raffle 1",
+    "seller_fee_basis_points": 999,
+    "image": "https://raw.githubusercontent.com/smokeheads/Raffle1_NFTs_Winner/main/0.png",
+    "attributes": [
+        {
+            "trait_type": "Winner",
+            "value": "Yes"
+        }
+    ],
+    "collection": {
+        "name": "Smoke Heads",
+        "family": "SmokeHeads Raffle 1"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/smokeheads/Raffle1_NFTs_Winner/main/0.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "SHCvRU52toTHfqnodedxnSPpxz8MXHEebZqvVVWiM7p",
+                "share": 100
+            }
+        ]
+    }
+}
